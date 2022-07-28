@@ -1,0 +1,3 @@
+name: my_action
+on: 
+  pull_request: opened
