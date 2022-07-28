@@ -1,5 +1,4 @@
 name: my_action
 on: 
-  pull_request: 
-    types: opened
+  pull_request:
     
